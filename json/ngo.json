@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Save the Children",
+        "description": "An NGO working for children's rights, providing education, healthcare, and emergency aid.",
+        "website": "https://www.savethechildren.org"
+    },
+    {
+        "name": "World Wildlife Fund",
+        "description": "A leading organization in wildlife conservation and endangered species.",
+        "website": "https://www.worldwildlife.org"
+    },
+    {
+        "name": "Doctors Without Borders",
+        "description": "Providing medical care to those in crisis, regardless of borders.",
+        "website": "https://www.doctorswithoutborders.org"
+    },
+    {
+        "name": "Greenpeace",
+        "description": "Campaigning for the environment, promoting peace, and sustainability.",
+        "website": "https://www.greenpeace.org"
+    },
+    {
+        "name": "Oxfam",
+        "description": "Fighting global poverty and injustice by providing practical support.",
+        "website": "https://www.oxfam.org"
+    },
+    {
+        "name": "UNICEF",
+        "description": "Promoting the rights and wellbeing of every child, in everything they do.",
+        "website": "https://www.unicef.org"
+    },
+    {
+        "name": "Habitat for Humanity",
+        "description": "Helping people in need build and improve places to call home.",
+        "website": "https://www.habitat.org"
+    },
+    {
+        "name": "Amnesty International",
+        "description": "Campaigning for human rights and fighting injustice worldwide.",
+        "website": "https://www.amnesty.org"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Global Giving",
+        "description": "Connects donors with grassroots projects around the world.",
+        "website": "https://www.globalgiving.org",
+        "image": "/images/earthquake-relief.jpg"
+    },
+    {
+        "name": "Direct Relief",
+        "description": "Improves the health and lives of people affected by poverty and emergencies.",
+        "website": "https://www.directrelief.org",
+        "image": "/images/earthquake-relief.jpg"
+    },
+    {
+        "name": "Charity: Water",
+        "description": "Bringing clean and safe drinking water to people in developing countries.",
+        "website": "https://www.charitywater.org",
+        "image": "/images/earthquake-relief.jpg"
+    },
+    {
+        "name": "The Red Cross",
+        "description": "Provides emergency assistance, disaster relief, and education.",
+        "website": "https://www.redcross.org",
+        "image": "/images/earthquake-relief.jpg"
+    },
+    {
+        "name": "Feeding America",
+        "description": "Nation's largest domestic hunger-relief organization.",
+        "website": "https://www.feedingamerica.org",
+        "image": "/images/earthquake-relief.jpg"
+    },
+    {
+        "name": "Cancer Research Institute",
+        "description": "Supports research into cancer immunotherapy.",
+        "website": "https://www.cancerresearch.org",
+        "image": "/images/earthquake-relief.jpg"
+    }
+]
